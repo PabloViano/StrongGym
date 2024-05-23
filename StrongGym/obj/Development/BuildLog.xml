@@ -2,13 +2,28 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>StrongGym</Name>
-    <LastWriteTime>2024-05-21T19:31:31.7221699Z</LastWriteTime>
+    <LastWriteTime>2024-05-23T20:36:36.4724089Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2024-05-21T19:41:36.5012644Z</LastWriteTime>
+      <Name>CargaProfesores.dtsx</Name>
+      <LastWriteTime>2024-05-23T18:48:50.2055503Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Capacitaciones.dtsx</Name>
+      <LastWriteTime>2024-05-23T19:36:03.4247927Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>act_Fisica.dtsx</Name>
+      <LastWriteTime>2024-05-23T20:17:46.7956546Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Producto.dtsx</Name>
+      <LastWriteTime>2024-05-23T20:37:19.3199208Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
