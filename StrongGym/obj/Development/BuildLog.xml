@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>StrongGym</Name>
-    <LastWriteTime>2024-05-23T20:36:36.4724089Z</LastWriteTime>
+    <LastWriteTime>2024-05-29T19:03:35.5038126Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -24,6 +24,11 @@
     <ProjectBuildItemInfo>
       <Name>Producto.dtsx</Name>
       <LastWriteTime>2024-05-23T20:37:19.3199208Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Cliente.dtsx</Name>
+      <LastWriteTime>2024-05-29T19:03:35.4761082Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
