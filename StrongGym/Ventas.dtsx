@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{F07948A5-E545-406A-A56D-5722191E7343}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{565500D9-A235-4828-92D4-62F9D642B149}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -2733,7 +2733,7 @@
         <NodeLayout
           Size="186,42"
           Id="Package\Tarea Flujo de datos\Destino de ADO NET 5"
-          TopLeft="237.5,255" />
+          TopLeft="227.5,251.25" />
         <NodeLayout
           Size="186,42"
           Id="Package\Tarea Flujo de datos\Destino de ADO NET 6"
@@ -2741,11 +2741,11 @@
         <NodeLayout
           Size="186,42"
           Id="Package\Tarea Flujo de datos\Destino de ADO NET 7"
-          TopLeft="655,248.75" />
+          TopLeft="650,248.75" />
         <NodeLayout
           Size="186,42"
           Id="Package\Tarea Flujo de datos\Destino de ADO NET 8"
-          TopLeft="22.5,396.25" />
+          TopLeft="22.5,390" />
         <NodeLayout
           Size="172,42"
           Id="Package\Tarea Flujo de datos\Origen de ADO NET"
@@ -2879,7 +2879,7 @@
         <NodeLayout
           Size="181,42"
           Id="Package\Tarea Flujo de datos\Origen de ADO NET 5"
-          TopLeft="233.75,168.75" />
+          TopLeft="233.75,166.25" />
         <NodeLayout
           Size="181,42"
           Id="Package\Tarea Flujo de datos\Origen de ADO NET 6"
@@ -2887,25 +2887,25 @@
         <NodeLayout
           Size="181,42"
           Id="Package\Tarea Flujo de datos\Origen de ADO NET 7"
-          TopLeft="658.75,167.5" />
+          TopLeft="648.75,167.5" />
         <NodeLayout
           Size="181,42"
           Id="Package\Tarea Flujo de datos\Origen de ADO NET 8"
           TopLeft="22.5,310" />
         <EdgeLayout
           Id="Package\Tarea Flujo de datos.Paths[Salida de origen de ADO NET5]"
-          TopLeft="327.375,210.75">
+          TopLeft="322.375,208.25">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,44.25"
+              EndConnector="0,43"
               Start="0,0"
-              End="0,36.75">
+              End="0,35.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,36.75" />
+                    End="0,35.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2938,7 +2938,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Tarea Flujo de datos.Paths[Salida de origen de ADO NET7]"
-          TopLeft="748.625,209.5">
+          TopLeft="741.125,209.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -2964,14 +2964,14 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,44.25"
+              EndConnector="0,38"
               Start="0,0"
-              End="0,36.75">
+              End="0,30.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,36.75" />
+                    End="0,30.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
